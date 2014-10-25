@@ -1,4 +1,4 @@
 svUI
 ====
 
-JQuery plugin for custom controls and interface elements. We develop this and uses in SV Solutions.
+JQuery plugin for custom controls and interface elements. I develop this and use in SV Solutions.
