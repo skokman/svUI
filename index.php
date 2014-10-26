@@ -13,7 +13,10 @@ $time = time();
     </head>
     <body id="body">
         <div id="content">
- 
+
+            <h1>Gallery example</h1>
+            <div id="gallery"></div>
+
             <h1>Checkbox example</h1>
             <div id="cbx"></div>
 
